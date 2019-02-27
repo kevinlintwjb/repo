@@ -1,0 +1,42 @@
+<package>
+	<id>com.kevinlintwjb.BatteryPercentX</id>
+	<name>BatteryPercentX</name>
+	<version>1.3.5-2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>電池顯示%數</shortDescription>
+	<descriptionlist>
+		<description>測試環境：iOS 12.0.1</description>
+		<description>測試設備：iPhone X</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>JPG1</description>
+			<image>S__7118854.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>JPG2</description>
+			<image>S__7118853.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>JPG3</description>
+			<image>S__7118852.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>作者：Spark</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
