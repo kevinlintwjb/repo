@@ -1,12 +1,12 @@
-Package: com.batterypercentx
+Package: com.kevinlintwjb.batterypercentx
 Version: 1.3.5-2
 Section: Tweaks
 Maintainer: Spark
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.batterypercentx.deb
-Size: 133046
-MD5sum: 6e2ddcc3f73efabfab0d82011f4bc1f2
+Filename: ./debs/com.fuckyou.deb
+Size: 156114
+MD5sum: ebb017350c8e97a8b216b90b0135deb5
 Description: 適用設備IPhoneX、測試設備版本：12.0.1
 Name: BatteryPercentX
 Author: Spark
