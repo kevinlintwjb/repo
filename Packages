@@ -12,5 +12,19 @@ Name: BatteryPercentX
 Author: Spark
 Depiction: https://kevinlintwjb.github.io/repo/depictions/?p=com.batterypercentx
 
+Package: com.kevinlintwjb.callbarxs
+Version: 1
+Section: Tweaks
+Maintainer: KevinLin
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.callbarxstw.deb
+Size: 64146
+MD5sum: dfc79c2b8ae2641d709cc0afdf6d9378
+Description: CallBar XS中文化
+Name: CallBar XS中文化
+Author: KevinLin
+Depiction: 僅中文化用
+
 
 
