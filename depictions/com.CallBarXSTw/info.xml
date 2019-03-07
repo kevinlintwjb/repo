@@ -1,0 +1,38 @@
+<package>
+	<id>com.CallBarXSTw</id>
+	<name>CallBarXS中文化</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>有裝CallBarXS專用</package>
+	</dependencies>
+	<shortDescription>CallBarXS中文化</shortDescription>
+	<descriptionlist>
+		<description>測試環境：iOS 12.2.1</description>
+		<description>測試設備：iPhone X</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>JPG1</description>
+			<image>S__8183831.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>JPG2</description>
+			<image>S__8183832.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>作者：KevinLin(敬貿)</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
