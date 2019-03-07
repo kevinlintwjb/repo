@@ -1,5 +1,5 @@
 Package: com.kevinlintwjb.callbarxstw
-Version: 1.0
+Version: 1.1
 Section: Tweaks
 Maintainer: KevinLin
 Depends: mobilesubstrate, preferenceloader, firmware (>=11.0)
