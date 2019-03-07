@@ -1,10 +1,12 @@
+
+
 Package: com.kevinlintwjb.callbarxstw
-Version: 1.1
+Version: 1.0
 Section: Tweaks
 Maintainer: KevinLin
-Depends: mobilesubstrate, preferenceloader, firmware (>=11.0)
+Depends: mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
-Filename: ./debs/com.com.callbarxstw.deb
+Filename: ./debs/com.callbarxstw.deb
 Size: 2084
 MD5sum: fdc9acf06530e87832115f0a2c10e0a2
 Description: CallBarXS專用、測試設備版本：12.1.2
