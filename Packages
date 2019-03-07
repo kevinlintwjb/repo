@@ -4,7 +4,7 @@ Section: Tweaks
 Maintainer: KevinLin
 Depends: mobilesubstrate, preferenceloader, firmware (>=11.0)
 Architecture: iphoneos-arm
-Filename: ./debs/com.CallBarXSTw.deb
+Filename: ./debs/com.com.callbarxstw.deb
 Size: 2084
 MD5sum: fdc9acf06530e87832115f0a2c10e0a2
 Description: CallBarXS專用、測試設備版本：12.1.2
